@@ -1,8 +1,8 @@
 {
-    "name": "Secktor-Md",
+    "name": "Elei",
     "description": "A Whatsapp md bot built in NodeJs to make experience better",
-    "repository": "https://github.com/secktorbot/Secktor-Md",
-    "logo": "https://avatars.githubusercontent.com/u/110405111?s=200&v=4",
+    "repository": "https://github.com/Ronen8686/engalei/blob/main/README.md",
+    "logo": "https://i.ibb.co/GsWnLkm/20220822-195636.png",
     "keywords": ["nodejs", "bot", "whatsapp bot", "Userbot", "Whatsapp Userbot", "SecktorBot", "theme bot","multi device"],
     "success_url": "/",
 
